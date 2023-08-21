@@ -1,4 +1,9 @@
 {
+    "header.links.courses": "Khóa học",
+    "header.user.menu.dashboard": "Bảng thông tin",
+    "header.user.menu.profile": "Hồ sơ",
+    "header.user.menu.account.settings": "Tài khoản",
+    "header.user.menu.logout": "Đăng xuất",
     "course-authoring.advanced-settings.policies.description": "{notice} Không sửa đổi các chính sách này trừ khi bạn đã quen thuộc với mục đích của chúng.",
     "course-authoring.advanced-settings.deprecated.button.text": "{visibility} cài đặt không dùng nữa",
     "course-authoring.advanced-settings.heading.title": "Cài đặt nâng cao",
